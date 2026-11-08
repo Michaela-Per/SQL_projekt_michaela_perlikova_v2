@@ -9,13 +9,13 @@ Finální projekt ENGETO Datová akademie
 
 ## Obsah
 
-1. [Popis projektu](#-popis-projektu)
-2. [Struktura repozitáře](#-struktura-repozitáře)
-3. [Primární tabulka](#-primární-tabulka)
-4. [Sekundární tabulka](#-sekundární-tabulka)
-5. [Informace o výstupních datech](#-informace-o-výstupních-datech)
-6. [Výzkumné otázky a odpovědi](#-výzkumné-otázky-a-odpovědi)
-7. [Závěr projektu](#-závěr-projektu)
+1. [Popis projektu](popis-projektu)
+2. [Struktura repozitáře](struktura-repozitáře)
+3. [Primární tabulka](primární-tabulka)
+4. [Sekundární tabulka](sekundární-tabulka)
+5. [Informace o výstupních datech](informace-o-výstupních-datech)
+6. [Výzkumné otázky a odpovědi](výzkumné-otázky-a-odpovědi)
+7. [Závěr projektu](závěr-projektu)
 
 ---
 
